@@ -1,0 +1,30 @@
+$primaryColor: rgba(140, 68, 248, 1);
+$secondaryColor: rgb(241, 190, 198);
+$first_gradient: rgb(56, 119, 255);
+$second_gradient: rgb(138, 175, 255);
+$bgColor: #0e0f13;
+//sidebar
+$sidebarBgColor:var(--sidebar_bg);
+$sidbarActiveBg: var(--sidebar_bg);
+$sidbarHoverBg: var(--sidebar_hover);
+$sidbarItemBg:var(--sidebar_bg);
+$side_hover_background: var(--sidebar_hover);
+
+//table
+$elTableBorder:var(--table-border);
+$elTableHover:var(--tableHover);
+$headerBgColor: var(--sidebar_bg);
+$mainColor: #00b2ff;
+$header: #fff;
+$header_text: var(--text_color);
+
+$app_background: var(--app-background-color);
+$blue: #409eff;
+$red: #f56c6c;
+$green: #67c23a;
+$yellow: #e6a23c;
+$cardBg: var(--card_bg);
+$grey: #838386;
+$success: rgb(10, 146, 71);
+$pending: rgb(53, 124, 255);
+$fail: rgb(247, 112, 112);

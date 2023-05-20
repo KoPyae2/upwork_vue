@@ -1,0 +1,28 @@
+export default {
+  id: "ID",
+  title: "Title",
+  memberID: "UserID",
+  enterMemberID: "Please enter UserID",
+  state: "State",
+  memberNickname: "Member Nickname",
+  liveID: "LiveID",
+  liveStartTime: "Live Start Time",
+  cover: "Cover Image",
+  thumbnail: "Video Thumbnail",
+  pictureVideo: "Image / Video",
+  videoAddress: "Video Address",
+  audienceList: "Audience List",
+  commentList: "Comment List",
+  live: "Live",
+  offline: "Offline",
+  common: "Common Room",
+  clickToUpload: "Click to upload",
+
+  //audienceList
+  userID: "UserID",
+  enterUserID: "Please enter UserID",
+  userNickname: "User's nickname",
+  enterUserNickname: "Please enter user's nickname",
+  watchTime: "Watch Time",
+  duration: "Cumulative Duration",
+};

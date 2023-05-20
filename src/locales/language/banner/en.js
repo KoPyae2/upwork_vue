@@ -1,0 +1,30 @@
+export default {
+  recommend: "Recommend",
+  leaderboard: "LeaderBoard",
+  filter: {
+    type: "Type",
+    type_placeholder: "Please select type",
+    home_page_ad: "Home Page Advertisement",
+    television_ad: "Television Advertisement",
+    popular_ad: "Popular Live Advertisement",
+  },
+  table: {
+    title: "Title",
+    sort: "Sort",
+    type: "Type",
+    class: "Classification",
+    picture: "Image",
+    link: "Link",
+    state: "State",
+  },
+  dialog: {
+    client: "Specified Client",
+    title: "Title",
+    sort: "Sort",
+    type: "Type",
+    class: "Classification",
+    picture: "Image",
+    link: "Link",
+    state: "State",
+  },
+};

@@ -1,0 +1,28 @@
+export default {
+  id: "编号",
+  title: "标题",
+  memberID: "会员Id",
+  enterMemberID: "请输入会员Id",
+  state: "状态",
+  memberNickname: "会员昵称",
+  liveID: "直播ID",
+  liveStartTime: "直播开始时间",
+  cover: "资源封面",
+  thumbnail: "视频缩略图",
+  pictureVideo: "图片/视频",
+  videoAddress: "视频地址",
+  audienceList: "观众列表",
+  commentList: "评论列表",
+  online: "直播中",
+  offline: "离线",
+  common: "普通房间",
+  clickToUpload: "点击上传",
+
+  //audienceList
+  userID: "用户ID",
+  enterUserID: "请输入用户ID",
+  userNickname: "用户昵称",
+  enterUserNickname: "请输入用户昵称",
+  watchTime: "观看时间",
+  duration: "累计时长",
+};

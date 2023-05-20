@@ -1,0 +1,49 @@
+[theme="light"] {
+    --app-background-color: #FDFAF4;
+    --sidebar_bg: #FFFFFF;
+    --sidebar_hover: #FFFFFF;
+    --text_color: #1A1A1D;
+    --tab_bg: #f2f2f2;
+    --card_bg: #fff;
+    --input_bg: rgba(0, 0, 0, 0.03);
+    --headerBg: #FDFAF4;
+    --el-fill-color-blank: #f7f7f7;
+    //table
+    --table-border: #ebebf5;
+    --table-header-text: #303133;
+    --table-header-bg: #fff;
+    --tableHover: #f4f4f5;
+    //message
+    --message-bg: #FFFFFF;
+    // Login
+    --side-container-bg: #00b2ff;
+    --login-container-bg: #0000001a;
+    --login-input-bg: #f5f8fa;
+
+    --lang-background: #f5f7fa;
+}
+
+[theme="dark"] {
+    --app-background-color: #000;
+    --sidebar_bg: #181B23;
+    --sidebar_hover: #000;
+    --text_color: whitesmoke;
+    --headerBg: #181B23;
+    --tab_bg: #181B23;
+    --card_bg: #181B23;
+    --input_bg: rgba(255, 255, 255, 0.03);
+
+    //table
+    --table-border: rgb(62 62 62);
+    --table-header-text: #d5d5d5;
+    --table-header-bg: #000;
+    --tableHover: #000;
+    //message
+    --message-bg: #181B23;
+    // Login
+    --side-container-bg: #0e0e0e;
+    --login-container-bg: #2a2929b0;
+    --login-input-bg: #0e0e0e;
+
+    --lang-background: #181B23;
+}

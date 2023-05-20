@@ -1,0 +1,25 @@
+export default {
+  common: "普通升级",
+  force: "强制升级",
+  andriod: "安卓",
+  ios: "IOS",
+  table: {
+    name: "APP名称",
+    version_no: "版本号",
+    system: "系统",
+    note: "更新说明",
+    link: "下载地址",
+    force: "强更",
+    created_at: "创建时间",
+    state: "状态",
+    operate: "操作",
+  },
+  dialog: {
+    name: "APP名称",
+    version_no: "版本号",
+    system: "系统",
+    note: "更新说明",
+    link: "下载地址",
+    force: "强更",
+  },
+};

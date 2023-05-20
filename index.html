@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <!-- <link rel="icon" href="/favicon.ico" /> -->
+  <link rel="icon" href="/logo.png" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=5.0" />
+  <meta name="description" content="Dashboard" />
+  <title>Dashboard</title>
+  <script>
+    window.require = () => { };
+  </script>
+  <script>
+    (function detectIE() {
+      if (window.ActiveXObject || "ActiveXObject" in window) {
+        console.warn("is IE");
+        document.write(
+          "<div style='padding:100px 0;text-align:center'>本系统不支持IE浏览器，请使用除IE之外的主流浏览器！</div>"
+        );
+      }
+    })();
+
+    document.documentElement.setAttribute("lang", localStorage.getItem('lang'));
+  </script>
+</head>
+
+<body>
+  <div id="app"></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>

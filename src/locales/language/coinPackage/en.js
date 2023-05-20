@@ -1,0 +1,25 @@
+export default {
+  table: {
+    sort: "Sort",
+    name: "Coin Package Name",
+    price: "Market Price / Original Price",
+    tea_coin: "Number Of Tea Coins",
+    gift: "Coins Gift",
+    draw: "Number Of Blind-box Draws",
+    channel: "Channel ID",
+    default: "Default",
+    recommend: "Recommend",
+  },
+  dialog: {
+    name: "Coin Package Name",
+    quantity: "Quantity",
+    price: "Market Price",
+    original: "Original Price",
+    gift: "Coins Gift",
+    draw: "Number Of Blind-box Draws",
+    channel: "Channel ID",
+    default: "Default",
+    sort: "Sort",
+    recommend: "Recommend",
+  },
+};

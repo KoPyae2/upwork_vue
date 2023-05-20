@@ -1,0 +1,25 @@
+export default {
+  common: "Common Upgrade",
+  force: "Force Upgrade",
+  andriod: "Andriod",
+  ios: "IOS",
+  table: {
+    name: "App Name",
+    version_no: "Version Number",
+    system: "System",
+    note: "Release Notes",
+    link: "Download Link",
+    force: "Force Update",
+    created_at: "Created At",
+    state: "State",
+    operate: "Options",
+  },
+  dialog: {
+    name: "App Name",
+    version_no: "Version Number",
+    system: "System",
+    note: "Release Notes",
+    link: "Download Link",
+    force: "Force Update",
+  },
+};

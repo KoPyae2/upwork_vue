@@ -1,0 +1,26 @@
+export default {
+  table: {
+    id: "Id",
+    client: "Client",
+    picture: "Image",
+    title: "Title",
+    content: "Content",
+    link: "Open Link / Module Tag",
+    state: "State",
+  },
+  dialog: {
+    client: "Specified Client",
+    picture: "Image",
+    title: "Title",
+    content: "Content",
+    link: "Link",
+    all: "All",
+    ios: "IOS",
+    android: "Android",
+    // zh: "Simplified Chinese",
+    // hk: "Traditional Chinese",
+    // en: "English",
+    // vi: "Vietnam",
+    // id: "Indonesia",
+  },
+};

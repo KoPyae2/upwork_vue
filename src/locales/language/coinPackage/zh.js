@@ -1,0 +1,25 @@
+export default {
+  table: {
+    sort: "排序",
+    name: "名称",
+    price: "市价/原价",
+    tea_coin: "茶币数量(个)",
+    gift: "赠送(个)",
+    draw: "抽奖次数",
+    channel: "渠道 ID",
+    default: "默认",
+    recommend: "推荐",
+  },
+  dialog: {
+    name: "成员名字",
+    quantity: "数量",
+    price: "市价/原价",
+    original: "原价",
+    gift: "赠送(个)",
+    draw: "抽奖次数",
+    channel: "渠道 ID",
+    default: "默认",
+    sort: "排序",
+    recommend: "推荐",
+  },
+};

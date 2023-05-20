@@ -1,0 +1,30 @@
+export default {
+  recommend: "推薦",
+  leaderboard: "排行榜",
+  filter: {
+    type: "类型",
+    type_placeholder: "请选择类型",
+    home_page_ad: "首页顶部广告",
+    television_ad: "影视广告",
+    popular_ad: "热门直播广告",
+  },
+  table: {
+    title: "标题",
+    sort: "排序",
+    type: "类型",
+    class: "分类",
+    picture: "图片",
+    link: "链接",
+    state: "状态",
+  },
+  dialog: {
+    client: "指定客户端",
+    title: "标题",
+    sort: "排序",
+    type: "类型",
+    class: "分类",
+    picture: "轮播图",
+    link: "链接",
+    state: "状态",
+  },
+};
