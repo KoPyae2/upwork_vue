@@ -21,7 +21,4 @@ dark and light team
 ## Recommended IDE Setup
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-![photo_2023-05-20_19-18-47](https://github.com/KoPyae2/upwork_vue/assets/88847654/fb9fd2b1-b57d-42b5-802e-6995fd909ca9)
-
-![photo_2023-05-20_19-19-49](https://github.com/KoPyae2/upwork_vue/assets/88847654/06dabfb7-a301-49e1-8906-f726d2e87ea8)
 
